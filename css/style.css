@@ -58,3 +58,20 @@ body {
   border-bottom: 1px solid #ddd;
   padding: 10px;
 }
+
+/* EXCERISE 13 */
+
+.carousel {
+  margin-bottom: 50px;
+  background: #512DA8;
+}
+
+.carousel-item {
+  height: 900px;
+}
+
+.carousel-item img {
+  min-height: 100%;
+  max-width: 100%;
+  margin: auto;
+}
